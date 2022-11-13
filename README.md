@@ -4,7 +4,7 @@ I'm David, welcome to my github page.
 
 Web Developer
 ------------------------
-- 🌍  I'm based in Bangkok, Thailand
+- 🌍  I'm based in Taipei, Taiwan
 - 🏫 I graduated from the Assumption University of Thailand
 - 📚 [A MERN project](https://github.com/cydavidh/Tutify) I've recently worked on
 - ✉️  You can contact me at [cydavidh@gmail.com](mailto:cydavidh@gmail.com)
