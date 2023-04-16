@@ -8,7 +8,7 @@ Web Developer
 - 🏫 I graduated from the Assumption University of Thailand
 - 📚 [A MERN project](https://github.com/cydavidh/Tutify) I've recently worked on
 - ✉️  You can contact me at [cydavidh@gmail.com](mailto:cydavidh@gmail.com)
-- ✍ I’m currently studying DSA.
+<!-- - ✍ I’m currently ... -->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
