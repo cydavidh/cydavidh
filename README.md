@@ -2,15 +2,15 @@
 
 I'm David, welcome to my github page.
 
-Web Developer
-------------------------
+## Web/Software Developer
 - 🌍  I'm based in Taipei, Taiwan
 - 🏫 I graduated from the Assumption University of Thailand
 - 📚 [A MERN project](https://github.com/cydavidh/Tutify) I've recently worked on
 - ✉️  You can contact me at [cydavidh@gmail.com](mailto:cydavidh@gmail.com)
 <!-- - ✍ I’m currently ... -->
 
-<h3 align="left">Languages and Tools:</h3>
+
+## Language and Tools
 <p align="left"> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
@@ -22,7 +22,8 @@ Web Developer
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
 </p>
-------------------------
+
+## GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cydavidh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=cydavidh&theme=dark&hide_border=false)
