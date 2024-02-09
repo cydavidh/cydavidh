@@ -3,9 +3,10 @@
 I'm David, welcome to my github page.
 
 ## Web/Software Developer
-- 🌍  I'm based in Taipei, Taiwan
+- 🌍 I'm based in Taipei, Taiwan
 - 🏫 I graduated from the Assumption University of Thailand
-- 📚 [A MERN project](https://github.com/cydavidh/Tutify) I've recently worked on
+- 🖥️ Backend: I have a solid grasp of Java and Spring Framework and have built various web applications using them.
+- 📚 Frontend: [A MERN project](https://github.com/cydavidh/Tutify) I've worked on that demonstrates some of my frontend capabilities.
 - ✉️  You can contact me at [cydavidh@gmail.com](mailto:cydavidh@gmail.com)
 <!-- - ✍ I’m currently ... -->
 
