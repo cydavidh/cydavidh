@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm David, welcome to my github page.
+I'm David, welcome to my github page. Feel free to take a look at some of my projects.
 
 ## Web/Software Developer
 - 🌍 I'm based in Taipei, Taiwan
